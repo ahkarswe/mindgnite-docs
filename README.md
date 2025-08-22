@@ -11,7 +11,7 @@ The is document for mindgnite.com
 
 | Category | Description | Folder |
 |----------|-------------|--------|
-| AWS DNS Forwarding | EC2 to On-Prem AD DNS setup | `./EC2-to-OnPrem-DNS.md` |
+| AWS DNS Forwarding | EC2 to On-Prem AD DNS setup |[EC2-to-OnPrem-DNS.md] (`./EC2-to-OnPrem-DNS.md`) |
 | WordPress Site Building | Setup, plugin modularity, login flows | `/wordpress-site-building/` |
 | Docker Config | Container orchestration, volumes, backups | `/docker-config/` |
 | NGINX Reverse Proxy | SSL, access control, multi-site routing | `/nginx-reverse-proxy/` |
